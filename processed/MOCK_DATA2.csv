@@ -1,0 +1,11 @@
+id,laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+11,LAB002,Gabriele Bircher,MRI,POSITIVO,2025-02-21
+12,LAB001,Frasier MacDougall,blood test,INDEFINIDO,2024-05-30
+13,LAB001,Sinclare Ennever,ultrasound,POSITIVO,2024-08-30
+14,LAB004,Vivyanne Eldon,biopsy,POSITIVO,2025-03-19
+15,LAB003,Elfrida Eastgate,blood test,INDEFINIDO,2024-08-23
+16,LAB002,Gabey Moston,biopsy,NEGATIVO,2025-01-02
+17,LAB005,Arlyne Cottom,colonoscopy,NEGATIVO,2024-09-07
+18,LAB004,Caz Haistwell,ultrasound,INDEFINIDO,2025-03-16
+19,LAB001,Leigh Whisson,endoscopy,INDEFINIDO,2024-07-11
+20,LAB003,Dotty Masselin,biopsy,INDEFINIDO,2025-03-27

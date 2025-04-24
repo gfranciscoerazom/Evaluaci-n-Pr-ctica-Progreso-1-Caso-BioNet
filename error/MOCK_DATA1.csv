@@ -1,0 +1,11 @@
+id,laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+1,LAB001,Deirdre Wisdom,urine analysis,NEGATIVO,2024-09-12
+2,LAB004,Wenona Twinbrow,urine analysis,POSITIVO,2025-02-02
+3,LAB004,Efrem Ord,colonoscopy,POSITIVO,2025-04-17
+4,LAB002,Jeri Mullin,biopsy,INDEFINIDO,2025-04-01
+5,LAB001,Mindy Southcott,endoscopy,NEGATIVO,2025-02-06
+6,LAB003,Lynne Perrott,CT scan,INDEFINIDO,2024-10-21
+7,LAB003,Trent Grumble,X-ray,INDEFINIDO,2024-10-06
+8,LAB004,Perry Strang,ultrasound,NEGATIVO,2024-12-24
+9,LAB004,Pauli Eberz,X-ray,POSITIVO,2024-08-15
+10,LAB004,Nikolaus Izakoff,biopsy,INDEFINIDO,2025-01-08
