@@ -74,9 +74,6 @@
 *.svg
 *.svgz
 
-# Portable Document Format
-*.pdf
-
 # X BitMap
 *.xbm
 
@@ -341,7 +338,8 @@ modules.xml
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
